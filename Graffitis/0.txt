@@ -1,0 +1,8 @@
+graffcreator=T
+graffname={F81414}EPEP KONTOL
+Xpos=919.637451
+Ypos=-945.946105
+Zpos=40.082557
+XYpos=0.000000
+YYpos=0.000000
+ZYpos=0.000000
